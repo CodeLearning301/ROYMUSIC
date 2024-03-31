@@ -12,13 +12,13 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "roy_editx")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "The_Owner_Ehsaas")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "NykaaxBot")
+BOT_USERNAME = getenv("BOT_USERNAME", "None")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "NYKAA MUSIC")
+BOT_NAME = getenv("BOT_NAME", "None")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "NYKAA_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "EhsaasAss")
 EVALOP = list(map(int, getenv("EVALOP", "6195725562").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://sanasomani786:TJgADfpkI1XVUkKt@cluster0.ruhyad9.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
